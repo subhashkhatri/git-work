@@ -1,8 +1,6 @@
 ***
 ***
-<<<<<<< HEAD
-=======
 hello
 hello
 ------
->>>>>>> 25c0f3a (line added)
+
